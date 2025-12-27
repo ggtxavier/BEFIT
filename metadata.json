@@ -1,0 +1,5 @@
+{
+  "name": "PDVBEFIT Web",
+  "description": "A modern React web port of the PDVBEFIT Point-of-Sale system, featuring sales management, inventory tracking, and performance dashboards.",
+  "requestFramePermissions": []
+}
